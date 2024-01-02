@@ -1,0 +1,179 @@
+.navi{
+	text-decoration: none;
+	padding-left: 41px;
+	color: black;
+}
+nav{
+	text-align: right;
+	margin-right: 210px;
+	font-size: 12px;
+	margin-top: 55px;
+}
+body{
+	font-family: lato;
+	background-color: #E5E5E5; 
+	max-width: 1305px;
+}
+#sec1{
+	text-align: center;
+	margin-top: -205px;
+}
+h1{
+	padding-left: 260px;
+	font-size: 30px;
+}
+.psec1{
+	padding-left: 650px;
+	padding-right: 200px;
+	text-align: left;
+	line-height: 1.8;
+	margin-top: 45px;
+	font-size: 13px;
+	color: gray;
+}
+.img1{
+	text-align: left;
+	margin-left: 310px;
+	margin-top: 100px;
+	pointer-events: none;
+}
+}
+.kom{
+	height: 190px;
+}
+.log{
+	height: 50px;
+}
+.button1{
+	width: 180px;
+	height: 50px;
+	margin-left: 175px;
+	margin-top: 45px;
+	background-color: #34547A;
+	border: none;
+	color: whitesmoke;
+	font-family: lato;
+}
+.buta{
+	text-decoration: none;
+	color: whitesmoke;
+}
+.button1:hover{
+	width: 175px;
+	height: 45px;
+	content: "click";
+}
+main{
+	background-color: white;
+	height: 340px;
+	width: 1305px;
+	margin-left: -9px;
+	margin-top: 100px;
+}
+.h2m{
+	text-align: center;
+	padding-top: 100px;
+}
+.psec2{
+	text-align: center;
+	padding-left: 430px;
+	padding-right: 430px;
+	font-size: 15px;
+	color: gray;
+	line-height: 1.4;
+	padding-top: 25px;
+}
+.divmain{
+	background-color:#34547A;
+	height: 180px;
+	margin-top: 105px;
+
+}
+.bum{
+	width: 50px;
+}
+.lina{
+	list-style: none;
+	padding-top: 65px;
+}
+ul.lina li{
+	display: inline-block;
+	padding-left: 220px;
+	text-align: center;
+	color: white;
+	font-family: arial;
+	font-size: 14px;
+}
+.img1 img{
+	width: 210px;
+}
+.sfot{
+	height: 300px;
+	background-color: white;
+	margin-top: -100px;
+}
+.toji{
+	float: right;
+	margin-right: 320px;
+	margin-top: 40px;
+	width: 170px;
+}
+progress{
+	margin-top: 40px;
+	margin-left: 400px;
+	height: 4px;
+	background-color: #34547A;
+	width: 300px;
+}
+.pr2{
+	margin-top: 60px;
+}
+.pr3{
+	margin-top: 60px;
+}
+.h3d3{
+	margin-top: 100px;
+	text-align: center;
+	margin-left: 270px;
+}
+.divava{
+	text-align: center;
+	margin-top: 60px;
+}
+.ppph{
+	margin-top: 30px;
+	color: gray;
+	padding-left: 450px;
+	padding-right: 450px;
+}
+iframe{
+	margin-top: 40px;
+	width: 700px;
+	height: 300px;
+}
+.hot{
+	text-align: center;
+	margin-top: 100px;
+}
+.foot{
+	height: 500px;
+	text-align: center;
+}
+input{
+	width: 200px;
+	height: 30px;
+	border: none;
+}
+.input{
+	margin-top: 50px;
+}
+.butno{
+	background-color: #34547A;
+	width: 120px;
+	height: 35px;
+	margin-top: 20px;
+	border: none;
+	color: whitesmoke;
+	font-family: lato;
+	font-size: 13px;
+}
